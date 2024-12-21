@@ -12,7 +12,7 @@ Currently, two official plugins are available:
 # Gemini App  
 
 
-Gemini App is an interactive AI chat application inspired by ChatGPT. It allows users to engage in natural language conversations with an AI model.  
+Gemini App is an interactive AI chat application inspired by Google Gemini. It allows users to engage in natural language conversations with an AI model.  
 
 ## Features  
 
